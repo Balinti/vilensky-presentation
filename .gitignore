@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+# Exclude full uncut MP3 sources — only the trimmed clips ship
+songs/*.mp3
+!songs/clips/
